@@ -59,7 +59,7 @@ Tahap 2 - Pilih Spesialisasi (20 Jam)
 
 ---
 
-## 📂 Struktur Folder Rekomendasi
+## 📂 Struktur Folder
 
 ```
 cyber-learning/
@@ -68,21 +68,23 @@ cyber-learning/
 ├── TEMPLATE.md (template kosong)
 │
 ├── 01-TAHAP-1-DASAR/
-│   ├── TAHAP-1_NETWORKING_DASAR.md
-│   ├── TAHAP-1_LINUX_DASAR.md
-│   ├── TAHAP-1_SECURITY_CIA-TRIAD.md
-│   ├── TAHAP-1_TOOLS_NMAP.md
-│   └── TAHAP-1_TOOLS_WIRESHARK.md
+│   ├── TAHAP-1_NETWORKING_DASAR
+│   │   ├── JARINGAN.md
+│   │   └── SWITCH.md
+│   ├── TAHAP-1_LINUX_DASAR
+│   ├── TAHAP-1_SECURITY_CIA-TRIAD
+│   ├── TAHAP-1_TOOLS_NMAP
+│   └── TAHAP-1_TOOLS_WIRESHARK
 │
 ├── 02-TAHAP-2-SPESIALISASI/
 │   ├── RED-TEAM/
-│   │   ├── TAHAP-2_RED-TEAM_NMAP.md
-│   │   └── TAHAP-2_RED-TEAM_BURP-SUITE.md
+│   │   ├── TAHAP-2_RED-TEAM_NMAP
+│   │   └── TAHAP-2_RED-TEAM_BURP-SUITE
 │   ├── BLUE-TEAM/
-│   │   ├── TAHAP-2_BLUE-TEAM_LOG-ANALYSIS.md
-│   │   └── TAHAP-2_BLUE-TEAM_SIEM.md
+│   │   ├── TAHAP-2_BLUE-TEAM_LOG-ANALYSIS
+│   │   └── TAHAP-2_BLUE-TEAM_SIEM
 │   └── APPSEC/
-│       └── TAHAP-2_APPSEC_OWASP.md
+│       └── TAHAP-2_APPSEC_OWASP
 │
 └── EXAMPLE/
     ├── EXAMPLE-1-NMAP.md
