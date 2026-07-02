@@ -10,6 +10,7 @@
 **Tahap**: [TAHAP-1 / TAHAP-2]  
 **Kategori**: [Contoh: Networking, Linux, Tools, Security, dll]  
 **Tujuan Pembelajaran**:
+
 - [ ] Tujuan 1: ...
 - [ ] Tujuan 2: ...
 - [ ] Tujuan 3: ...
@@ -24,7 +25,8 @@ Jelaskan konsep ini dalam 3-5 kalimat yang mudah dipahami:
 > [Tulis penjelasan singkat & jelas]
 
 **Visualisasi/Diagram**:
-```
+
+```txt
 [Opsional: Buat diagram ASCII atau gambar]
 ```
 
@@ -45,11 +47,13 @@ Jelaskan konsep ini dalam 3-5 kalimat yang mudah dipahami:
 ## ⚡ Catatan Penting
 
 ### Poin Utama
+
 - **Konsep 1**: [Penjelasan singkat]
 - **Konsep 2**: [Penjelasan singkat]
 - **Konsep 3**: [Penjelasan singkat]
 
 ### Command / Syntax (jika applicable)
+
 ```bash
 # Contoh command atau kode
 $ example-command --option value
@@ -60,20 +64,22 @@ $ example-command --option value
 ## 🔬 Latihan / Praktik
 
 ### Lab Setup
-```
+
+```txt
 Lokasi Lab: [VM / Cloud / TryHackMe / dll]
 Durasi: [Berapa lama dikerjakan]
 Tools: [Tool apa yang dipakai]
 ```
 
-### Langkah Praktik
+### Jenis Praktik
+
 1. [Langkah 1]
 2. [Langkah 2]
 3. [Langkah 3]
 
 ### Hasil & Pembelajaran
+
 - Hasil: [Screenshot atau penjelasan hasil]
 - Hambatan: [Masalah yang dihadapi & solusi]
 
 ---
-

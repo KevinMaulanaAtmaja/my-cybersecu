@@ -67,14 +67,15 @@ cyber-learning/
 ├── README.md (file ini)
 ├── TEMPLATE.md (template kosong)
 │
+├── 0-SOURCE/                     <- File pendukung (gambar, project lab, bukti praktik)
+│   ├── assets/                   <-   Ilustrasi & diagram yang muncul di catatan (.md)
+│   ├── lab-evidence/             <-   Screenshot bukti hasil lab
+│   └── projects/                 <-   File project lab (.pkz, .pkt, dll)
+│
 ├── 01-TAHAP-1-DASAR/
-│   ├── TAHAP-1_NETWORKING_DASAR
-│   │   ├── JARINGAN.md
-│   │   └── SWITCH.md
-│   ├── TAHAP-1_LINUX_DASAR
-│   ├── TAHAP-1_SECURITY_CIA-TRIAD
-│   ├── TAHAP-1_TOOLS_NMAP
-│   └── TAHAP-1_TOOLS_WIRESHARK
+│   └── TAHAP-1_NETWORKING_DASAR/
+│       ├── 01-JARINGAN.md
+│       └── 2-SWITCH.md
 │
 ├── 02-TAHAP-2-SPESIALISASI/
 │   ├── RED-TEAM/
