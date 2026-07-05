@@ -58,7 +58,7 @@ Komponen penyusun jaringan biasanya: My PC -> (1)Switch -> Router -> Firewall (o
 
 | No | Sumber | Link | Format | Rating | Waktu |
 |----|-----|------|--------|--------|-------|
-| 1 | NetworkChuck - CCNA Course | <https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P> | Video | ⭐⭐⭐⭐⭐ | 10min |
+| 1 | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=S7MNX_UD7vY&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=1&t=7s> | Video | ⭐⭐⭐⭐⭐ | 10min |
 | 2 | | | | | |
 | 3 | | | | | |
 

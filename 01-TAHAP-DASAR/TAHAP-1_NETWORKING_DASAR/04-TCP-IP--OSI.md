@@ -1,4 +1,4 @@
-# 📝 Apa itu TCP/IP& & OSI?
+# 📝 Apa itu TCP/IP & OSI?
 
 ---
 
@@ -86,7 +86,7 @@ Layer 5 -> Application (-)
 
 | No | Sumber | Link | Format | Rating | Waktu |
 |----|-----|------|--------|--------|-------|
-| 1 | NetworkChuck - CCNA Course | <https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P> | Video | ⭐⭐⭐⭐⭐ | 12min |
+| 1 | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=4> | Video | ⭐⭐⭐⭐⭐ | 12min |
 | 2 | | | | | |
 | 3 | | | | | |
 

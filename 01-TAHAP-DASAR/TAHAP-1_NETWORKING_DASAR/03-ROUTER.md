@@ -53,7 +53,7 @@ Router biasanya pake angka ip pertama (1) misal (10.16.3.1), router perlu disett
 
 | No  | Sumber                     | Link | Format | Rating     | Waktu |
 | --- | -------------------------- | ---- | ------ | ---------- | ----- |
-| 1   | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=4>   | Video  | ⭐⭐⭐⭐⭐ | 21min |
+| 1   | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=p9ScLm9S3B4&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=3>   | Video  | ⭐⭐⭐⭐⭐ | 21min |
 | 2   |                            |      |        |            |       |
 | 3   |                            |      |        |            |       |
 
