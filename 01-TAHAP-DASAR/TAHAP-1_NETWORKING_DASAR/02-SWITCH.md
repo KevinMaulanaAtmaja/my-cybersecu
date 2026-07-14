@@ -36,13 +36,13 @@ repeat electro signal langsung si hub, bahaya bisa diliat hacker!.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/4-switch.png" alt="Switch" width="100%">
+        <img src="../../0-SOURCE/assets/2-switch/1-switch.png" alt="Switch" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Switch</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/5-ethernet.png" alt="Ethernet" width="100%">
+        <img src="../../0-SOURCE/assets/2-switch/2-ethernet.png" alt="Ethernet" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Ethernet</figcaption>
       </figure>
     </td>
@@ -50,13 +50,13 @@ repeat electro signal langsung si hub, bahaya bisa diliat hacker!.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/6-switch-simulation.png" alt="Switch Simulation" width="100%">
+        <img src="../../0-SOURCE/assets/3-router/1-switch-simulation.png" alt="Switch Simulation" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Switch Simulation</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/7-wap-simulation.png" alt="WAP Simulation" width="100%">
+        <img src="../../0-SOURCE/assets/3-router/2-wap-simulation.png" alt="WAP Simulation" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>WAP Simulation</figcaption>
       </figure>
     </td>
@@ -134,13 +134,13 @@ Tools: Tools bawaan Cisco Packet
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-1-switch.png" alt="Switch Lab" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-1-switch.png" alt="Switch Lab" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing Switch</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-2-hub.png" alt="Hub Lab" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-2-hub.png" alt="Hub Lab" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing Hub</figcaption>
       </figure>
     </td>
@@ -148,13 +148,13 @@ Tools: Tools bawaan Cisco Packet
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-3-mac-address-table.png" alt="MAC Table" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-3-mac-address-table.png" alt="MAC Table" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Switch MAC Address Table</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-4-wap.png" alt="WAP Lab" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-4-wap.png" alt="WAP Lab" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing WAP</figcaption>
       </figure>
     </td>

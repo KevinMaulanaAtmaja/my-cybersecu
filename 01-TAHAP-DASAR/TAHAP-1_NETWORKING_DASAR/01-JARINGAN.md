@@ -31,13 +31,13 @@ Komponen penyusun jaringan biasanya: My PC -> (1)Switch -> Router -> Firewall (o
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/1-lan.png" alt="LAN" width="100%">
+        <img src="../../0-SOURCE/assets/1-network/1-lan.png" alt="LAN" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>LAN (Local Area Network)</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/2-wan.png" alt="WAN" width="100%">
+        <img src="../../0-SOURCE/assets/1-network/2-wan.png" alt="WAN" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>WAN (Wide Area Network)</figcaption>
       </figure>
     </td>
@@ -45,7 +45,7 @@ Komponen penyusun jaringan biasanya: My PC -> (1)Switch -> Router -> Firewall (o
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/3-firewall.png" alt="Firewall" width="100%">
+        <img src="../../0-SOURCE/assets/1-network/3-firewall.png" alt="Firewall" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Firewall</figcaption>
       </figure>
     </td>

@@ -40,7 +40,7 @@ Router biasanya pake angka ip pertama (1) misal (10.16.3.1), router perlu disett
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/8-router.png" alt="Router" width="100%">
+        <img src="../../0-SOURCE/assets/3-router/3-router.png" alt="Router" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Router</figcaption>
       </figure>
     </td>
@@ -53,7 +53,7 @@ Router biasanya pake angka ip pertama (1) misal (10.16.3.1), router perlu disett
 
 | No  | Sumber                     | Link | Format | Rating     | Waktu |
 | --- | -------------------------- | ---- | ------ | ---------- | ----- |
-| 1   | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=p9ScLm9S3B4&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=3>   | Video  | ⭐⭐⭐⭐⭐ | 21min |
+| 1   | NetworkChuck - CCNA Course | <https://www.youtube.com/watch?v=CRdL1PcherM&list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&index=4>   | Video  | ⭐⭐⭐⭐⭐ | 21min |
 | 2   |                            |      |        |            |       |
 | 3   |                            |      |        |            |       |
 
@@ -115,13 +115,13 @@ cli->show bgp ipv4 unicast(spertinya di cisco packet tracer biasa tdk bisa)
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-5-router-same-network.png" alt="Labbing Same Network" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-5-router-same-network.png" alt="Labbing Same Network" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing Same Network</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-6-router-diff-network.png" alt="Labbing Different Network" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-6-router-diff-network.png" alt="Labbing Different Network" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing Different Network</figcaption>
       </figure>
     </td>
@@ -129,7 +129,7 @@ cli->show bgp ipv4 unicast(spertinya di cisco packet tracer biasa tdk bisa)
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-7-router-dns-server.png" alt="Labbing DNS Server" width="100%">
+        <img src="../../0-SOURCE/lab-evidence/cisco-packet/lab-7-router-dns-server.png" alt="Labbing DNS Server" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Labbing DNS Server</figcaption>
       </figure>
     </td>
