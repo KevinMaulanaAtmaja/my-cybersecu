@@ -10,7 +10,7 @@
 **Tujuan Pembelajaran**:
 
 - [x] Memahami apa itu Fiber Cable
-- [x] Mengetahui komponene penyusun Fiber Cable
+- [x] Mengetahui komponen penyusun Fiber Cable
 
 ---
 

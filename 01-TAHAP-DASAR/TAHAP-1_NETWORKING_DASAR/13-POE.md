@@ -10,7 +10,7 @@
 **Tujuan Pembelajaran**:
 
 - [x] Memahami apa itu PoE
-- [x] Mengetahui cara membuat PoE
+- [x] Mengetahui jenis-jenis PoE
 
 ---
 
