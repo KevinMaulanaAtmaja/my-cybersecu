@@ -143,13 +143,13 @@ yg tadinya butuh 20 ip, lalu dipasin jdi 30, dan yg tersedia 32 host.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/17-exercise-1/1-exercise1.png" alt="Exercise 1" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/17-exercise/exercise1/1-exercise1.png" alt="Exercise 1" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Soal Latihan</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/17-exercise-1/2-save-host-bits.png" alt="Save Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/17-exercise/exercise1/2-save-host-bits.png" alt="Save Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Save Host Bits</figcaption>
       </figure>
     </td>
@@ -157,13 +157,13 @@ yg tadinya butuh 20 ip, lalu dipasin jdi 30, dan yg tersedia 32 host.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/17-exercise-1/3-network.png" alt="Network Baru" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/17-exercise/exercise1/3-network.png" alt="Network Baru" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Network Baru</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/17-exercise-1/4-result.png" alt="Hasil" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/17-exercise/exercise1/4-result.png" alt="Hasil" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Hasil</figcaption>
       </figure>
     </td>
