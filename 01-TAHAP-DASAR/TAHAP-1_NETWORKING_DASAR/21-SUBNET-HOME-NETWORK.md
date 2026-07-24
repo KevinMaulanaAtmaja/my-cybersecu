@@ -131,13 +131,13 @@ rumusnya 2^6 = 64-2 = 62.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/4-exercise0.png" alt="Exercise 0" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/3-exercise0.png" alt="Exercise 0" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Exercise 0</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/5-convert-to-biner.png" alt="Convert to Biner" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/4-convert-to-biner.png" alt="Convert to Biner" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Convert ke Biner</figcaption>
       </figure>
     </td>
@@ -145,13 +145,13 @@ rumusnya 2^6 = 64-2 = 62.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/6-need-howmany-host-bits.png" alt="Need How Many Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/5-need-howmany-host-bits.png" alt="Need How Many Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Kebutuhan Host Bits</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/7-hack-host-bits.png" alt="Hack Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/6-hack-host-bits.png" alt="Hack Host Bits" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Hack Host Bits</figcaption>
       </figure>
     </td>
@@ -159,13 +159,13 @@ rumusnya 2^6 = 64-2 = 62.
   <tr>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/8-formula.png" alt="Formula" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/7-formula.png" alt="Formula" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Rumus</figcaption>
       </figure>
     </td>
     <td style="border: none; vertical-align: top;">
       <figure>
-        <img src="../../0-SOURCE/assets/16-subnet/9-host-total.png" alt="Host Total" width="100%" style="max-height: 250px; object-fit: contain;">
+        <img src="../../0-SOURCE/assets/16-subnet/8-host-total.png" alt="Host Total" width="100%" style="max-height: 250px; object-fit: contain;">
         <figcaption>Total Host</figcaption>
       </figure>
     </td>
